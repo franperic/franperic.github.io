@@ -15,6 +15,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
+  TocSide: "left"
   ShowShareButtons: true
 
   homeInfoParams:
