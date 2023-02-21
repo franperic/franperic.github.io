@@ -16,7 +16,7 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   # TocSide: "left"
-  ShowShareButtons: true
+  ShowShareButtons: false
 
   homeInfoParams:
     Title: "Welcome to My Website"
