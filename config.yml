@@ -3,8 +3,18 @@ languageCode: 'en-us'
 title: Hello there!
 theme: PaperModX
 
-params:
+menu:
+  main:
+    - name: Posts
+      url: posts
+    - name: About Me
+      url: about
 
+params:
+  defaultTheme: light
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
   ShowShareButtons: true
 
   homeInfoParams:
@@ -19,3 +29,15 @@ params:
       url: "https://linkedin.com/in/franperic"
     - name: twitter
       url: "https://twitter.com/fran_peric"
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        style: monokai
