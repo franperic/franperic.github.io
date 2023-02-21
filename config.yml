@@ -1,7 +1,7 @@
 baseURL: 'https://franperic.github.io'
 languageCode: 'en-us'
 title: Hello there!
-theme: PaperModX
+theme: PaperMod
 
 menu:
   main:
@@ -15,7 +15,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
-  TocSide: "left"
+  # TocSide: "left"
   ShowShareButtons: true
 
   homeInfoParams:
@@ -31,14 +31,14 @@ params:
     - name: twitter
       url: "https://twitter.com/fran_peric"
 
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        style: monokai
+# markup:
+#     goldmark:
+#         renderer:
+#             unsafe: true
+#     highlight:
+#         noClasses: false
+#         # anchorLineNos: true
+#         # codeFences: true
+#         # guessSyntax: true
+#         # lineNos: true
+#         style: monokai
