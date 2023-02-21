@@ -1,0 +1,21 @@
+baseURL: 'https://franperic.github.io'
+languageCode: 'en-us'
+title: Hello there!
+theme: PaperModX
+
+params:
+
+  ShowShareButtons: true
+
+  homeInfoParams:
+    Title: "Welcome to My Website"
+    Content: >
+      My name is Fran Peric. I am a Data Scientist. On my website I write about Machine Learning topics I am interested in.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/franperic"
+    - name: linkedin
+      url: "https://linkedin.com/in/franperic"
+    - name: twitter
+      url: "https://twitter.com/fran_peric"
