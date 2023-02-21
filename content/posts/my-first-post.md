@@ -1,7 +1,6 @@
 ---
-title: "My First Post"
+title: "Pandas Piping"
 date: 2023-02-20T08:20:21+01:00
-draft: true
 ---
 
 ## Introduction
