@@ -3,6 +3,14 @@ languageCode: 'en-us'
 title: Hello there!
 theme: PaperMod
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+googleAnalytics: G-PHGB9VX84Y
+
 menu:
   main:
     - name: Posts
