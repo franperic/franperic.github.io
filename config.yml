@@ -15,8 +15,6 @@ menu:
   main:
     - name: Posts
       url: posts
-    - name: About Me
-      url: about
 
 params:
   defaultTheme: light
