@@ -1,5 +1,7 @@
 ---
 title: "Extract Information From PDFs"
+summary: "Optical Character Recognition (OCR) can be used to extract text information from PDF files. In this blog post, I am using the [*tesseract*](https://github.com/tesseract-ocr/tesseract) framework to extract the weekly menu of a takeaway store."
+author: "Fran Peric"
 date: 2023-02-23T15:13:27+01:00
 showtoc: false
 tags: ["OCR", "image2text"]
