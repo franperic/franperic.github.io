@@ -1,5 +1,5 @@
-baseURL: 'https://franperic.github.io'
-languageCode: 'en-us'
+baseURL: "https://franperic.github.io"
+languageCode: "en-us"
 title: Hello there!
 theme: PaperMod
 
@@ -29,7 +29,7 @@ params:
   homeInfoParams:
     Title: "Welcome to My Website"
     Content: >
-      My name is Fran Peric. I am a Data Scientist. On my website I write about Machine Learning topics I am interested in.
+      Hello! I'm Fran Peric, an economics and data science graduate with a deep interest in Machine Learning. Specifically, I'm passionate about time series forecasting, semantic search, and the exciting field of MLOps. Join me as I share my insights, experiences, and discoveries in these areas. Together, let's explore the possibilities and practical applications of Machine Learning in a dynamic and ever-evolving world.
 
   socialIcons:
     - name: github
@@ -38,7 +38,6 @@ params:
       url: "https://linkedin.com/in/franperic"
     - name: twitter
       url: "https://twitter.com/fran_peric"
-
 # markup:
 #     goldmark:
 #         renderer:
