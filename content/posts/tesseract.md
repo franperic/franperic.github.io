@@ -30,7 +30,7 @@ One popular takeaway chain in my home city is publishing its weekly menu using a
 # Here are the results:
 
 The following image shows the menu from last week:
-![takeaway](/tesseract/take-away.png "Test")
+![takeaway](/tesseract/take-away.png)
 {{< rawhtml >}}
 <div align="center"><i>Weekly menu in German. (Click to enlarge)</i></div>
 {{< /rawhtml >}}
