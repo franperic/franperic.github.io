@@ -1,7 +1,7 @@
 ---
 title: "Behavior Testing for Time Series Forecasting with Prophet"
 author: "Fran Peric"
-date: 2023-11-29T11:26:51+01:00
+date: 2023-11-29
 showtoc: false
 tags:
   [
