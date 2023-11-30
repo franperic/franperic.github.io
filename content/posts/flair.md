@@ -1,7 +1,8 @@
 ---
 title: "Behavior Testing for Time Series Forecasting with Prophet"
+summary: "Behavioral testing for time series forecasting models can be used to assess their adaptability to sudden changes in historical data. In this blog post, I am using the [_Prophet_](https://facebook.github.io/prophet/) framework to evaluate the model's response to permanent shocks within a time series."
 author: "Fran Peric"
-date: "2023-11-29"
+date: 2023-11-29T15:50:26+01:00
 showtoc: false
 tags:
   [
