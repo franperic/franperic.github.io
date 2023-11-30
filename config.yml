@@ -25,6 +25,7 @@ params:
   ShowToc: true
   # TocSide: "left"
   ShowShareButtons: false
+  dateFormat: "January 2, 2006"
 
   homeInfoParams:
     Title: "Welcome to My Website"
