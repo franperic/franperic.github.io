@@ -4,7 +4,6 @@
 {{- if (eq site.Params.defaultTheme "light") }}
 <head>
     {{ template "_internal/google_analytics.html" . }}
-    {{ template "_internal/google_analytics_async.html" . }}
 </head>  
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
