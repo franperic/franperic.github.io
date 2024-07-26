@@ -28,7 +28,7 @@ params:
 
   homeInfoParams:
     Title: "Welcome to My Website"
-    Content: >
+    Content: |
       Hello! I'm Fran Peric. Join me as I share my insights, experiences, and discoveries in Machine Learning.
 
       Here are a few things I have built:
